@@ -118,7 +118,7 @@ testimonial__items:
 
   - name: "Carla Rosser"
     image: "/images/client-2.jpg"
-    designation: "Statistician"
+    designation: "Data Scientist"
     link: "https://facebook.com/"
     content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
 
