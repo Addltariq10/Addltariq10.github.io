@@ -29,8 +29,8 @@ menu__settings:
 #-------------------------------
 # Author Settings
 author:
-  author__name: Jason Hill
-  author__bio: Hi, I'm Jason – Graphic Designer. I'm a creative and curious person who has a lot of experience and fond moments working with design, websites, and marketing.
+  author__name: Addl Tariq
+    author__bio: Hi, I'm Addl – Data Scientist. I'm a creative and curious person who has a nag for storytelling and unboxing insights through Data. I have 5 years of work experience working with retail, fintech and technology companies.
   author__avatar: '/images/01.jpg'
 
 social:
