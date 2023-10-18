@@ -1,6 +1,6 @@
 #-------------------------------
 # Site Settings
-title: Akio
+title: AT
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Creative Portfolio Theme for Jekyll.
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
@@ -29,17 +29,14 @@ menu__settings:
 #-------------------------------
 # Author Settings
 author:
-  author__name: Jason Hill
-  author__bio: Hi, I'm Jason – Graphic Designer. I'm a creative and curious person who has a lot of experience and fond moments working with design, websites, and marketing.
+  author__name: Addl Tariq
+  author__bio: Hi, I'm Addl – Data Scientist. I'm a creative and curious person who has a nag for storytelling and unboxing insights through Data. I have 5 years of work experience working with retail, fintech and technology companies.
   author__avatar: '/images/01.jpg'
 
 social:
-- {icon: "ion-logo-twitter", link: "https://twitter.com"}
-- {icon: "ion-logo-facebook", link: "https://facebook.com"}
-- {icon: "ion-logo-instagram", link: "https://instagram.com"}
-- {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
-- {icon: "ion-logo-github", link: "https://github.com"}
-- {icon: "ion-logo-vimeo", link: "https://vimeo.com"}
+- {icon: "ion-logo-facebook", link: "https://www.facebook.com/addltariq"}
+- {icon: "ion-logo-instagram", link: "https://www.instagram.com/addltariq/"}
+- {icon: "ion-logo-github", link: "https://github.com/Addltariq10"}
 
 # Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
 # Other icons can be found at https://ionicons.com/v4/
@@ -49,8 +46,8 @@ social:
 # Hero Settings
 hero:
   enable: true
-  hero__title: Hey everyone, I’m Jason Hill
-  hero__description: Hi, I'm Jason – Graphic Designer. I'm a creative and curious person who has a lot of experience and fond moments working with design, websites, and marketing.
+  hero__title: Hey everyone, I’m Addl Tariq
+  hero__description: Hi,I'm Addl – Data Scientist. I'm a creative and curious person who has a nag for storytelling and unboxing insights through Data. I have 5 years of work experience working with retail, fintech and technology companies.
   hero__image: "/images/01-1.jpg"
 
 
@@ -61,29 +58,31 @@ logos:
   logos__title: I’ve worked with some great сompanies
 
 logo__items:
-  - name: Google
-    link: "https://www.google.com/"
+  - name: Ahold Delhaize
+    link: "https://www.aholddelhaize.com/brands/peapod-digital-labs/"
     image: "/images/google.svg"
 
-  - name: Spotify
-    link: "https://www.spotify.com/"
+  - name: PackageX
+    link: "https://packagex.io/"
     image: "/images/spotify.svg"
 
-  - name: Pinterest
-    link: "https://www.pinterest.com/"
+  - name: VisionX
+    link: "https://visionx.io/
     image: "/images/pinterest.svg"
 
-  - name: Netlify
-    link: "https://www.netlify.com/"
-    image: "/images/netlify.svg"
-
-  - name: Apple
-    link: "https://www.apple.com/"
+  - name: McDonalds
+    link: "https://www.mcdonalds.com/us/en-us.html"
     image: "/images/apple.svg"
 
-  - name: Adobe
-    link: "https://www.adobe.com/"
+  - name: WeWork
+    link: "https://www.wework.com/"
     image: "/images/adobe.svg"
+
+  - name: Telenor Microfiance Bank
+    link: "https://easypaisa.com.pk/"
+    image: "/images/netlify.svg"
+
+
 
 #-------------------------------
 # Newsletter
