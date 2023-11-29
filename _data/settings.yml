@@ -50,7 +50,7 @@ social:
 hero:
   enable: true
   hero__title: Hey everyone, I’m Addl Tariq
-  hero__description: Hi,I'm Addl – Data Scientist. I'm a creative and curious person who has a nag for storytelling and unboxing insights through Data. I have 5 years of work experience working with retail, fintech and technology companies.
+  hero__description: Hi, I'm Addl – Data Scientist. I'm a creative and curious person who has a nag for storytelling and unboxing insights through Data. I have 5 years of work experience working with retail, fintech and technology companies.
   hero__image: "/images/01-1.jpg"
 
 
