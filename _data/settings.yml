@@ -61,8 +61,8 @@ logos:
   logos__title: I’ve worked with some great сompanies
 
 logo__items:
-  - name: Google
-    link: "https://www.google.com/"
+  - name: Ahold Delhaize
+    link: "https://www.aholddelhaize.com/brands/peapod-digital-labs/"
     image: "/images/google.svg"
 
   - name: Spotify
